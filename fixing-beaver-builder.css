@@ -1,0 +1,9 @@
+/*
+Posts thumbnails on BB use this non-standard feature font-smooth
+Here is how to disable it
+*/
+
+img {
+  -webkit-font-smoothing: never!important;
+  -moz-osx-font-smoothing:  never!important;
+}
